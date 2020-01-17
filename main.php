@@ -4,6 +4,6 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use Reweb\Job\Backend;
 
-$exemplo = new Backend\Exemplo;
+$caixa = new Backend\Caixa;
 
-echo $exemplo->exemplo();
+echo $caixa->caixa();
