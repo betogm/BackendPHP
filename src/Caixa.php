@@ -3,7 +3,7 @@
 namespace Reweb\Job\Backend;
 
 /**
- * Classe de exemplo
+ * Classe do Caixa Eletrônico
  *
  * @author Huberto Gastal Mayer <hubertogm@gmail.com>
  */
